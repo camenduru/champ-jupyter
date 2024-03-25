@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/champ-jupyter/blob/main/champ_jupyter.ipynb) | champ_jupyter (😭 Pro Colab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/champ-jupyter/blob/main/champ_jupyter.ipynb) | champ_jupyter (😭 Pro Colab - ~33GB VRAM)
 
 ### 🧬 Code
 https://github.com/fudan-generative-vision/champ
