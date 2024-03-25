@@ -18,7 +18,13 @@ https://arxiv.org/abs/2403.14781
 https://fudan-generative-vision.github.io/champ/#/
 
 ### 🖼 Output
+https://github.com/camenduru/champ-jupyter/assets/54370274/f749aac3-6ec8-4515-a0bb-b4aa35fbb083
 
+
+https://github.com/camenduru/champ-jupyter/assets/54370274/c5b59e5d-8413-498f-9c10-a0df9531436c
+
+
+https://github.com/camenduru/champ-jupyter/assets/54370274/de067cea-0e79-4080-900a-9f619f985303
 
 ### 🏢 Sponsor
 https://modelslab.com
